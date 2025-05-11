@@ -1,4 +1,3 @@
-
 #Szenfetch
 
 A detailed but simple command-line system information tool.
@@ -41,4 +40,4 @@ The default install directory is:
 ##Note
 
 Tool was created from my need of a simple fetching tool that worked in any distro and was not flashy or fancy.
-There is the possiblity of mistakes in the script. Let me know of any bugs. Fetch away!
+Tool was created to the best of my knowledge. There is the possiblity of mistakes in the script. Let me know if you encounter any bugs or errors. Fetch away!
