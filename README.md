@@ -1,5 +1,5 @@
 
-# justfetch
+#Szenfetch
 
 A detailed but simple command-line system information tool.
 The tool requires bash to work (but can be used by any shell as long as bash is in the system).
