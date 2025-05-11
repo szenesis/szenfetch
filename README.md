@@ -40,5 +40,5 @@ The default install directory is:
 ```
 ##Note
 
-Tool was created from my personal need of a simple fetching tool that worked in any distro (including immutable distros) and was not flashy or fancy. It just gives information I usually need from a PC.
+Tool was created from my personal need of a simple fetching tool that worked in any distro (including immutable distros) and was not flashy or fancy. It just gives information I usually need from a device.
 Tool was created to the best of my knowledge. There is the possiblity of mistakes in the script. Let me know if you encounter any bugs or errors. Fetch away!
