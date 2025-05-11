@@ -37,7 +37,7 @@ After succesfully installing, you are free to use command:
   szenfetch
 ```
 
-The default directory is:
+The default install directory is:
 ```
 /usr/local/bin
 ```
