@@ -36,8 +36,10 @@ After succesfully installing, you are free to use command:
 
 The default install directory is:
 ```
-/usr/local/bin
+/home/"username"/local/bin
 ```
+The "username" will be replaced by your username on your machine. 
+
 ##Note
 
 Tool was created from my personal need of a simple fetching tool that worked in any distro (including immutable distros) and was not flashy or fancy. It just gives information I usually need from a device.
