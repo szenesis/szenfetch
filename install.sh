@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INSTALL_DIR="/usr/local/bin"
+INSTALL_DIR="/home/$USER/.local/bin"
 
 SCRIPT_NAME="szenfetch.sh"
 TARGET_NAME="szenfetch"
