@@ -7,7 +7,7 @@ The tool requires bash to work (but can be used by any shell as long as bash is 
 
 Clone repo:
 ```bash or any shell
-  git clone https://github.com/szenesis/szenfetch
+  git clone https://github.com/szenesis/szenfetch.git
 ```
 
 Enter tool directory:
